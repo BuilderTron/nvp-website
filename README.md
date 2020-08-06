@@ -1,24 +1,25 @@
-# Jose Lopez Portfolio
-**Version 2**
+# Nelson's Video & Photography Website 2020
+**Version 1**
 
-This is Jose Lopez's software development portfolio containing up to date
-Resume, projects, and contact information.
+This is Nelson's Video & Photography website designed by
+Jose J. Lopez.
 
 ---
 
 ## Contents
 
-- Resume
-- Projects
-- Contact Info
-
+- About
+- Services
+- Client Galleries
+- Blog
+- Contact
 ---
 
 ## License & copyright
 
-Copyright (c) [2020] [Jose Julian Lopez]
+Copyright (c) [2020] [Nelson's Video & Photography]
 
 ---
 
 ## Link
-[Lopezbuild.com](https://www.lopezbuild.com/)
+[nelsonsvp.com](http://www.nelsonsvp.com/)
